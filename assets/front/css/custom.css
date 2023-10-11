@@ -1,0 +1,23 @@
+._uy76_gallery img{
+    width:100%;
+}
+
+@media screen and (max-device-width:360px) {
+	.nav-menu .nav-menu-social .align-to-left .curr-menu{
+	    width:100%;
+	}
+     .nav-menu.nav-menu-social.align-to-right.curr-menu{
+	    margin-top: 5PX;
+
+	}
+	hr{
+	    margin-top:25px;
+	}
+	.nav-menu.nav-menu-social.align-to-right.curr-menu {
+    margin-top: 5px;
+    margin-right: 18%;
+}
+   .nav-menu.nav-menu-social.align-to-left.curr-menu {
+    margin-left: 15%;
+}
+}
